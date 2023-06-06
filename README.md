@@ -7,7 +7,7 @@
 </h1>
 
 <h6 align="center">
-  <b>✨ This is The One Of Best & Powerful Bot Spam In Telegram Based On Pyrogram ✨</b>
+  <b>✨ This is One Of The Best & Powerful Bot Spam In Telegram Based On Pyrogram ✨</b>
 </h6>
 
 
